@@ -1,0 +1,16 @@
+## pubg
+
+### 安装
+##### 1、库安装
+> pip install -r requirements.txt
+
+
+### 启动
+#### 主程序启动
+> python manage.py runserver IPhost:PORT
+
+### 项目目录
+- [x]  `assets` 资产管理app 
+- [x]  `pubg` 工程目录
+
+### 项目功能
